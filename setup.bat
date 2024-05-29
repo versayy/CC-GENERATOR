@@ -1,0 +1,2 @@
+cls
+pip install cryptodome
