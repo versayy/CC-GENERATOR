@@ -1,2 +1,0 @@
-cls
-python ccgen.py
