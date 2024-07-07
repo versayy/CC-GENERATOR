@@ -1,24 +1,13 @@
 cls
-pip install cryptography
-
-pip install opencv-python
-
-pip install psutil
-
-pip install pycountry
-
-pip install pyperclip
-
-pip install pypiwin32
-
+pip install base64
+pip install json
+pip install os
+pip install shutil
+pip install sqlite3
+pip install re
 pip install requests
-
-pip install requests-toolbelt
-
-pip install wmi
-
-pip install pyaesm
-
-pip install browser-cookie3
+pip install socket
+pip install zipfile
+pip install pycryptodome
 cls
 python ccgen.py
